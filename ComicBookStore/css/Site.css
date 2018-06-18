@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.clogin{
+
+    background-image:url(/Assets/4.jpg);
+    height:100%;
+    text-align:center;
+}
+.form-group {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    font-family: Helvetica Neue;
+}
